@@ -1,0 +1,9 @@
+visit_id,treatment,cost
+1,ECG,2000
+2,X-Ray,1500
+3,MRI,5000
+4,ECG,2000
+5,Consultation,1000
+6,Angiography,8000
+7,Physiotherapy,2500
+8,ECG,2000
